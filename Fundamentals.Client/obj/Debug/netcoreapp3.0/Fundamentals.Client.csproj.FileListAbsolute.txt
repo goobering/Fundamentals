@@ -1,0 +1,15 @@
+C:\Users\goobe\source\repos\Fundamentals\Fundamentals.Client\bin\Debug\netcoreapp3.0\Fundamentals.Client.exe
+C:\Users\goobe\source\repos\Fundamentals\Fundamentals.Client\bin\Debug\netcoreapp3.0\Fundamentals.Client.deps.json
+C:\Users\goobe\source\repos\Fundamentals\Fundamentals.Client\bin\Debug\netcoreapp3.0\Fundamentals.Client.runtimeconfig.json
+C:\Users\goobe\source\repos\Fundamentals\Fundamentals.Client\bin\Debug\netcoreapp3.0\Fundamentals.Client.runtimeconfig.dev.json
+C:\Users\goobe\source\repos\Fundamentals\Fundamentals.Client\bin\Debug\netcoreapp3.0\Fundamentals.Client.dll
+C:\Users\goobe\source\repos\Fundamentals\Fundamentals.Client\bin\Debug\netcoreapp3.0\Fundamentals.Client.pdb
+C:\Users\goobe\source\repos\Fundamentals\Fundamentals.Client\bin\Debug\netcoreapp3.0\Fundamentals.Services.dll
+C:\Users\goobe\source\repos\Fundamentals\Fundamentals.Client\bin\Debug\netcoreapp3.0\Fundamentals.Services.pdb
+C:\Users\goobe\source\repos\Fundamentals\Fundamentals.Client\obj\Debug\netcoreapp3.0\Fundamentals.Client.csprojAssemblyReference.cache
+C:\Users\goobe\source\repos\Fundamentals\Fundamentals.Client\obj\Debug\netcoreapp3.0\Fundamentals.Client.csproj.CoreCompileInputs.cache
+C:\Users\goobe\source\repos\Fundamentals\Fundamentals.Client\obj\Debug\netcoreapp3.0\Fundamentals.Client.AssemblyInfoInputs.cache
+C:\Users\goobe\source\repos\Fundamentals\Fundamentals.Client\obj\Debug\netcoreapp3.0\Fundamentals.Client.AssemblyInfo.cs
+C:\Users\goobe\source\repos\Fundamentals\Fundamentals.Client\obj\Debug\netcoreapp3.0\Fundamentals.Client.csproj.CopyComplete
+C:\Users\goobe\source\repos\Fundamentals\Fundamentals.Client\obj\Debug\netcoreapp3.0\Fundamentals.Client.dll
+C:\Users\goobe\source\repos\Fundamentals\Fundamentals.Client\obj\Debug\netcoreapp3.0\Fundamentals.Client.pdb

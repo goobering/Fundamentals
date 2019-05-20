@@ -1,0 +1,9 @@
+C:\Users\goobe\source\repos\Fundamentals\Fundamentals.Services\bin\Debug\netstandard2.0\Fundamentals.Services.deps.json
+C:\Users\goobe\source\repos\Fundamentals\Fundamentals.Services\bin\Debug\netstandard2.0\Fundamentals.Services.dll
+C:\Users\goobe\source\repos\Fundamentals\Fundamentals.Services\bin\Debug\netstandard2.0\Fundamentals.Services.pdb
+C:\Users\goobe\source\repos\Fundamentals\Fundamentals.Services\obj\Debug\netstandard2.0\Fundamentals.Services.csprojAssemblyReference.cache
+C:\Users\goobe\source\repos\Fundamentals\Fundamentals.Services\obj\Debug\netstandard2.0\Fundamentals.Services.csproj.CoreCompileInputs.cache
+C:\Users\goobe\source\repos\Fundamentals\Fundamentals.Services\obj\Debug\netstandard2.0\Fundamentals.Services.AssemblyInfoInputs.cache
+C:\Users\goobe\source\repos\Fundamentals\Fundamentals.Services\obj\Debug\netstandard2.0\Fundamentals.Services.AssemblyInfo.cs
+C:\Users\goobe\source\repos\Fundamentals\Fundamentals.Services\obj\Debug\netstandard2.0\Fundamentals.Services.dll
+C:\Users\goobe\source\repos\Fundamentals\Fundamentals.Services\obj\Debug\netstandard2.0\Fundamentals.Services.pdb

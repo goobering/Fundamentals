@@ -1,0 +1,9 @@
+c:\Users\goobe\source\repos\Fundamentals\Fundamentals.Objects\obj\Debug\netstandard2.0\Fundamentals.Objects.csprojAssemblyReference.cache
+c:\Users\goobe\source\repos\Fundamentals\Fundamentals.Objects\obj\Debug\netstandard2.0\Fundamentals.Objects.csproj.CoreCompileInputs.cache
+c:\Users\goobe\source\repos\Fundamentals\Fundamentals.Objects\obj\Debug\netstandard2.0\Fundamentals.Objects.AssemblyInfoInputs.cache
+c:\Users\goobe\source\repos\Fundamentals\Fundamentals.Objects\obj\Debug\netstandard2.0\Fundamentals.Objects.AssemblyInfo.cs
+c:\Users\goobe\source\repos\Fundamentals\Fundamentals.Objects\bin\Debug\netstandard2.0\Fundamentals.Objects.deps.json
+c:\Users\goobe\source\repos\Fundamentals\Fundamentals.Objects\bin\Debug\netstandard2.0\Fundamentals.Objects.dll
+c:\Users\goobe\source\repos\Fundamentals\Fundamentals.Objects\bin\Debug\netstandard2.0\Fundamentals.Objects.pdb
+c:\Users\goobe\source\repos\Fundamentals\Fundamentals.Objects\obj\Debug\netstandard2.0\Fundamentals.Objects.dll
+c:\Users\goobe\source\repos\Fundamentals\Fundamentals.Objects\obj\Debug\netstandard2.0\Fundamentals.Objects.pdb
